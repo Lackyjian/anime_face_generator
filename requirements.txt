@@ -1,3 +1,4 @@
-tensorflow
+tensorflow==2.14.0
 keras
-streamlit
+streamlit==1.27.2
+
